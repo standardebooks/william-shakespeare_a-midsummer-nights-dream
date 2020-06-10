@@ -53,7 +53,7 @@
 		<meta property="se:production-notes">The main text was based on the PG version with additional stage directions taken from the A. W. Verity's 1905 Cambridge edition (marked by square brackets).</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/A_Midsummer_Night%E2%80%99s_Dream</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/A_Midsummer_Night%27s_Dream</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-shakespeare_a-midsummer-nights-dream</meta>
 		<dc:creator id="author">William Shakespeare</dc:creator>
 		<meta property="file-as" refines="#author">Shakespeare, William</meta>
@@ -66,7 +66,8 @@
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n82151539
 </meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1"><abbr>PG</abbr> Shakespeare Team</dc:contributor>
+		<dc:contributor id="transcriber-1">PG Shakespeare Team</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">PG Shakespeare Team</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Emma Sweeney</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Sweeney, Emma</meta>
