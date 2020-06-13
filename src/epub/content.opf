@@ -43,9 +43,10 @@
 		<meta property="term" refines="#subject-4">sh85046918</meta>
 		<meta property="se:subject">Drama</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">This comedy follows four lovers who become bewitched by fairies.</dc:description>
+		<dc:description id="description">This comedy follows four lovers and a thespian who become bewitched by fairies.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;LONG_DESCRIPTION&lt;/p&gt;
+			&lt;p&gt;Long Description.&lt;/p&gt;
+			&lt;p&gt;The play opens with Theseus, Duke of Athens, and Hippolyta, Queen of the Amazons, planning the celebration of their marriage. During their visit to Athens four guests Demetrius, Lysander, Helena, and Hermia are also trying to find their own marriage partners and follow each other into the woods. Also entering the woods are six actors practicing their play for the duke and his new wife. Unbeknownst to all, they have also entered the realm of the fairy kingdom, ruled by King Oberon and Queen Titania and inhabited by the mischievous Puck.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1514</dc:source>
