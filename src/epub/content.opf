@@ -41,6 +41,7 @@
 		<meta property="term" refines="#subject-3">sh2008114289</meta>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh85046918</meta>
+		<meta property="se:subject">Comedy</meta>
 		<meta property="se:subject">Drama</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">This comedy follows four lovers and a thespian who become bewitched by fairies.</dc:description>
