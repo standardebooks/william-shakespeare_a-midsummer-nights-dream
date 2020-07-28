@@ -43,7 +43,6 @@
 		<meta property="term" refines="#subject-4">sh85046918</meta>
 		<meta property="se:subject">Comedy</meta>
 		<meta property="se:subject">Drama</meta>
-		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">This comedy follows four lovers and a thespian who become bewitched by fairies.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;A Midsummer Night’s Dream&lt;/i&gt; is one of the many comedies written by &lt;a href="https://standardebooks.org/ebooks/william-shakespeare"&gt;William Shakespeare&lt;/a&gt;. It was written around 1595 and first published in Shakespeare’s first quarto in 1600. The exact reason for why this play was produced has been lost to time; some historians theorize that it could have been written for an aristocratic wedding, or for Queen Elizabeth I to celebrate the feast of &lt;abbr&gt;St.&lt;/abbr&gt; John.&lt;/p&gt;
